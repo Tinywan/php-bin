@@ -27,5 +27,8 @@
     "xmlwriter",
     "xmlreader",
     "xml",
-    "zip"
+    "zip",
+    "pcntl",
+    "posix",
+    "event"
 ]
